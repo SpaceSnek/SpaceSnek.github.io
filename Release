@@ -1,0 +1,15 @@
+Origin: SpaceSnek's Repo
+
+Label: SpaceSnek
+
+Suite: stable
+
+Version: 1.0
+
+Codename: SpaceSnek
+
+Architecture: iphoneos-arm
+
+Components: main
+
+Description: SpaceSnek's repo for learning and testing
