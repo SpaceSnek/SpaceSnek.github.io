@@ -3,11 +3,9 @@ Section: Themes
 Maintainer: SpaceSnek <jordan@went.land>
 Architecture: iphoneos-arm
 Version: 1.5
-Filename: /Viola.deb
+Filename: /debs/Viola.deb
 Size: 20034
 MD5sum: 2c13bd782ea86c302d682596adc3b829
-SHA1: e2f12cd7406c8f0f2753593b4ea80f0226a0b8dc
-SHA256: 843334f4d7954e535038eeaac2d9bbb27f95a27936637c2e29df8715eb2e45c3
 Description: Viola IOS theme
 Name: Viola 
 Author: Bousrih <spam@gmail.com>
